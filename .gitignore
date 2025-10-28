@@ -1,0 +1,23 @@
+# Pastas temporárias do Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Definições específicas do utilizador
+UserSettings/
+
+# Cache do Unity
+/[Aa]ssets/AssetStoreTools*
+
+# Ficheiros de build
+*.apk
+*.aab
+*.unitypackage
+
+# Ficheiros de sistema
+.DS_Store
+Thumbs.db
